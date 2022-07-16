@@ -18,4 +18,3 @@ function App() {
 
 export default App;
 
-git@github.com:RamK-16/Dashboard.git
